@@ -3,6 +3,7 @@
 <img src="./assets/hero.svg" alt="Nur Mohammad Akash - Aspiring AI/ML Researcher, CSE Student, Software Developer" width="100%"/>
 
 </div>
+ <br/> 
 
 <div align="center">
 
