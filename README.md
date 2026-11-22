@@ -58,8 +58,6 @@ An NLP project that converts Chittagonian expressions into standard Bangla: data
 </tr>
 </table>
 
-**Research interests:** AQI prediction · environmental data analysis · model evaluation · NLP · hate-speech detection · Explainable AI · statistical significance testing · predictive analytics
-
 **Research goal:** contribute to high-quality, peer-reviewed work in reputable Scopus and Web of Science indexed journals and conferences.
 
 <br/>
@@ -105,10 +103,10 @@ A database-driven banking web application that demonstrates account management a
 
 <img src="./assets/t_skills.svg" alt="Skills and Technologies" width="100%"/>
 
-<table>
-<tr><td width="170"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,php" alt="languages"/></td></tr>
-<tr><td><b>Web</b></td><td><img src="https://skillicons.dev/icons?i=html,css,sass,react,vite,nodejs,express" alt="web"/></td></tr>
-<tr><td><b>ML & Libraries</b></td><td><img src="https://skillicons.dev/icons?i=flask,scikitlearn,threejs,gsap" alt="libraries"/></td></tr>
+<table align = "center">
+<tr><td width="170"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" alt="languages"/></td></tr>
+<tr><td><b>Web</b></td><td><img src="https://skillicons.dev/icons?i=html,css,sass,nodejs,express" alt="web"/></td></tr>
+<tr><td><b>ML & Libraries</b></td><td><img src="https://skillicons.dev/icons?i=flask,scikitlearn,threejs,gsap,pandas,numpy" alt="libraries"/></td></tr>
 <tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mysql,mariadb" alt="databases"/></td></tr>
 <tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,arduino,postman,linux" alt="tools"/></td></tr>
 </table>
@@ -135,7 +133,6 @@ A database-driven banking web application that demonstrates account management a
 - Exploring **NLP and Explainable AI** through research-oriented projects
 - Strengthening statistical analysis and research methodology
 - Building practical software applications
-- Preparing for international postgraduate opportunities in Computer Science and AI
 
 <br/>
 
