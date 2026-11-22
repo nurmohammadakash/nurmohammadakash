@@ -31,6 +31,16 @@ I am a Computer Science and Engineering student at **Port City International Uni
 - 💻 Experienced in building web applications and software systems
 
 <br/>
+<img src="./assets/t_skills.svg" alt="Skills and Technologies" width="100%"/>
+
+<table align = "center">
+<tr><td width="170"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" alt="languages"/></td></tr>
+<tr><td><b>Web</b></td><td><img src="https://skillicons.dev/icons?i=html,css,sass,nodejs,express" alt="web"/></td></tr>
+<tr><td><b>ML & Libraries</b></td><td><img src="https://skillicons.dev/icons?i=flask,scikitlearn,threejs,gsap,pandas,numpy" alt="libraries"/></td></tr>
+<tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mysql,mariadb" alt="databases"/></td></tr>
+<tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,arduino,postman,linux" alt="tools"/></td></tr>
+</table>
+<br/>
 
 <img src="./assets/t_research.svg" alt="Research and Publications" width="100%"/>
 
@@ -98,15 +108,6 @@ A database-driven banking web application that demonstrates account management a
 
 <br/>
 
-<img src="./assets/t_skills.svg" alt="Skills and Technologies" width="100%"/>
-
-<table align = "center">
-<tr><td width="170"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" alt="languages"/></td></tr>
-<tr><td><b>Web</b></td><td><img src="https://skillicons.dev/icons?i=html,css,sass,nodejs,express" alt="web"/></td></tr>
-<tr><td><b>ML & Libraries</b></td><td><img src="https://skillicons.dev/icons?i=flask,scikitlearn,threejs,gsap,pandas,numpy" alt="libraries"/></td></tr>
-<tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mysql,mariadb" alt="databases"/></td></tr>
-<tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,arduino,postman,linux" alt="tools"/></td></tr>
-</table>
 
 **AI, ML & Data Science:** supervised and unsupervised learning · classification and regression · Naive Bayes · feature engineering · EDA · model evaluation · NLP · text classification · image analysis · Explainable AI · hypothesis testing
 
