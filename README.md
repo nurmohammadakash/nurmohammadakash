@@ -36,16 +36,9 @@ I am a Computer Science and Engineering student at **Port City International Uni
 
 <br/>
 
-<img src="./assets/t_research.svg" alt="Research and Publications" width="100%"/>
-
+#### 🌫️ Research and Publications
 <table>
 <tr>
-<td width="50%" valign="top">
-
-#### 🌫️ Air Quality Prediction in Bangladesh
-Worked with large-scale satellite-derived air quality data across multiple cities. Applied preprocessing, outlier treatment and feature selection, and compared regression models (including **Extra Trees** and **LightGBM**) using cross-validation and hyperparameter optimisation.
-
-</td>
 <td width="50%" valign="top">
 
 #### 🏙️ Chattogram Air Quality Research
@@ -57,20 +50,12 @@ Analysed air quality data from **2012 to 2023**, studying how **PM2.5, PM10, SO�
 <tr>
 <td width="50%" valign="top">
 
-#### 🏏 BD-CricketTox
-Hate-speech detection for online discussions targeting Bangladeshi cricketers: Bangla and multilingual text processing, YouTube comment analysis, dataset annotation and **Explainable AI (XAI)**.
-
-</td>
-<td width="50%" valign="top">
-
 #### 🗣️ Chittagonian to Standard Bangla
 An NLP project that converts Chittagonian expressions into standard Bangla: dataset integration, text normalisation and machine learning model development and evaluation.
 
 </td>
 </tr>
 </table>
-
-**Research interests:** AQI prediction · environmental data analysis · model evaluation · NLP · hate-speech detection · Explainable AI · statistical significance testing · predictive analytics
 
 **Research goal:** contribute to high-quality, peer-reviewed work in reputable Scopus and Web of Science indexed journals and conferences.
 
