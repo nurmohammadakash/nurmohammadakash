@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" width="1000" height="400" role="img" aria-label="Nur Mohammad Akash - Aspiring AI/ML Researcher, CSE Student, Software Developer">
+<defs><linearGradient id="ga" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2dd4bf"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#fb7185"/></linearGradient>
+ <linearGradient id="nm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#c7d2fe"/></linearGradient>
+ <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2dd4bf"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#fb7185"/></linearGradient>
+ <filter id="bl" x="-300%" y="-300%" width="700%" height="700%"><feGaussianBlur stdDeviation="55"/></filter>
+ <clipPath id="shape"><path d="M0 28 Q0 0 28 0 H972 Q1000 0 1000 28 V318 Q800 410 520 350 T0 350 Z"/></clipPath>
+</defs>
+<g clip-path="url(#shape)">
+ <rect width="1000" height="400" fill="#070a16"/>
+ <g filter="url(#bl)">
+  <circle r="170" fill="#2dd4bf" fill-opacity=".5"><animate attributeName="cx" values="140;360;140" dur="18s" repeatCount="indefinite"/><animate attributeName="cy" values="80;200;80" dur="18s" repeatCount="indefinite"/></circle>
+  <circle r="190" fill="#8b5cf6" fill-opacity=".55"><animate attributeName="cx" values="560;340;560" dur="22s" repeatCount="indefinite"/><animate attributeName="cy" values="120;260;120" dur="22s" repeatCount="indefinite"/></circle>
+  <circle r="170" fill="#fb7185" fill-opacity=".4"><animate attributeName="cx" values="900;720;900" dur="16s" repeatCount="indefinite"/><animate attributeName="cy" values="300;120;300" dur="16s" repeatCount="indefinite"/></circle>
+ </g>
+ <rect width="1000" height="400" fill="#070a16" fill-opacity=".5"/>
+ <g transform="translate(822,170)">
+  <circle r="104" fill="none" stroke="url(#ring)" stroke-width="3" stroke-dasharray="8 12" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="40s" repeatCount="indefinite"/></circle>
+  <circle r="80" fill="#0b1024" fill-opacity=".85" stroke="#fff" stroke-opacity=".18"/>
+  <text y="14" text-anchor="middle" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="44" font-weight="800" fill="url(#nm)" letter-spacing="1">NMA</text>
+ </g>
+ <text x="62" y="86" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#5eead4" letter-spacing="4">HELLO, I'M</text>
+ <rect x="62" y="100" width="56" height="3" rx="1.5" fill="url(#ga)"/>
+ <text x="60" y="172" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="62" font-weight="800" fill="url(#nm)">Nur Mohammad</text>
+ <text x="60" y="238" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="62" font-weight="800" fill="url(#nm)">Akash</text>
+ <text x="62" y="276" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="21" fill="#c9d1ee" opacity="0">CSE Student at Port City International University<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0;0.03;0.22;0.25;1" dur="16s" repeatCount="indefinite"/></text><text x="62" y="276" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="21" fill="#c9d1ee" opacity="0">Aspiring AI / ML Researcher<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.28;0.47;0.5;1" dur="16s" repeatCount="indefinite"/></text><text x="62" y="276" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="21" fill="#c9d1ee" opacity="0">Explainable AI  ·  NLP  ·  Data Science<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.53;0.72;0.75;1" dur="16s" repeatCount="indefinite"/></text><text x="62" y="276" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="21" fill="#c9d1ee" opacity="0">Full-Stack Software Developer<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.75;0.78;0.97;1.0;1" dur="16s" repeatCount="indefinite"/></text>
+ <text x="62" y="306" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#8d97ba">Chattogram, Bangladesh</text>
+</g>
+</svg>
