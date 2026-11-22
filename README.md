@@ -25,9 +25,6 @@
 
 <br/>
 
-
-<br/><br/>
-
 <img src="./assets/t_about.svg" alt="About Me" width="100%"/>
 
 I am a Computer Science and Engineering student at **Port City International University, Chattogram, Bangladesh**, with a strong interest in **Artificial Intelligence, Machine Learning, Data Science and research**. I enjoy building practical, intelligent solutions to real-world problems, supported by sound statistical thinking.
@@ -35,7 +32,6 @@ I am a Computer Science and Engineering student at **Port City International Uni
 - 🎓 B.Sc. in Computer Science and Engineering at Port City International University
 - 🔬 Active in academic research, with work in air quality prediction, NLP and explainable AI
 - 💻 Experienced in building web applications and software systems
-- 🎯 **Goal:** pursue postgraduate studies and contribute to international AI/ML research
 
 <br/>
 
@@ -43,12 +39,7 @@ I am a Computer Science and Engineering student at **Port City International Uni
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-#### 🌫️ Air Quality Prediction in Bangladesh
-Worked with large-scale satellite-derived air quality data across multiple cities. Applied preprocessing, outlier treatment and feature selection, and compared regression models (including **Extra Trees** and **LightGBM**) using cross-validation and hyperparameter optimisation.
-
-</td>
 <td width="50%" valign="top">
 
 #### 🏙️ Chattogram Air Quality Research
@@ -58,12 +49,6 @@ Analysed air quality data from **2012 to 2023**, studying how **PM2.5, PM10, SO�
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-#### 🏏 BD-CricketTox
-Hate-speech detection for online discussions targeting Bangladeshi cricketers: Bangla and multilingual text processing, YouTube comment analysis, dataset annotation and **Explainable AI (XAI)**.
-
-</td>
 <td width="50%" valign="top">
 
 #### 🗣️ Chittagonian to Standard Bangla
