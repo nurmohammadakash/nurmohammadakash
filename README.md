@@ -4,16 +4,11 @@
 
 </div>
 
-<!-- ============================================================
-  SOCIAL LINKS: replace every YOUR_... text with your real link.
-  Delete any badge line you do not want.
-============================================================= -->
 <div align="center">
 
 <a href="https://github.com/nurmohammadakash"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/nur-mohammad-akash-7b569b431"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:nurmohammadakash1821444617@@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="mailto:nurmohammadakash1821444617@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.kaggle.com/nurmohammadakash"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 <a href="https://scholar.google.com/citations?user=-sdzLJwAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
 
@@ -21,7 +16,7 @@
 
 <br/>
 
-<img src="./assets/highlights.svg" alt="4.00 CGPA, 6 featured projects, research presented at ICSDEHE 2026" width="100%"/>
+<img src="./assets/highlights.svg" alt="B.Sc. CSE, 6 featured projects, research presented at ICSDEHE 2026" width="100%"/>
 
 <br/><br/>
 
@@ -29,16 +24,23 @@
 
 I am a Computer Science and Engineering student at **Port City International University, Chattogram, Bangladesh**, with a strong interest in **Artificial Intelligence, Machine Learning, Data Science and research**. I enjoy building practical, intelligent solutions to real-world problems, supported by sound statistical thinking.
 
-- 🎓 B.Sc. in Computer Science and Engineering, with a **4.00 / 4.00 CGPA**
+- 🎓 B.Sc. in Computer Science and Engineering at Port City International University
 - 🔬 Active in academic research, with work in air quality prediction, NLP and explainable AI
 - 💻 Experienced in building web applications and software systems
 - 🎯 **Goal:** pursue postgraduate studies and contribute to international AI/ML research
 
 <br/>
 
-<img src="./assets/t_research.svg" alt="Research and Publication" width="100%"/>
+<img src="./assets/t_research.svg" alt="Research and Publications" width="100%"/>
+
 <table>
 <tr>
+<td width="50%" valign="top">
+
+#### 🌫️ Air Quality Prediction in Bangladesh
+Worked with large-scale satellite-derived air quality data across multiple cities. Applied preprocessing, outlier treatment and feature selection, and compared regression models (including **Extra Trees** and **LightGBM**) using cross-validation and hyperparameter optimisation.
+
+</td>
 <td width="50%" valign="top">
 
 #### 🏙️ Chattogram Air Quality Research
@@ -50,12 +52,20 @@ Analysed air quality data from **2012 to 2023**, studying how **PM2.5, PM10, SO�
 <tr>
 <td width="50%" valign="top">
 
+#### 🏏 BD-CricketTox
+Hate-speech detection for online discussions targeting Bangladeshi cricketers: Bangla and multilingual text processing, YouTube comment analysis, dataset annotation and **Explainable AI (XAI)**.
+
+</td>
+<td width="50%" valign="top">
+
 #### 🗣️ Chittagonian to Standard Bangla
 An NLP project that converts Chittagonian expressions into standard Bangla: dataset integration, text normalisation and machine learning model development and evaluation.
 
 </td>
 </tr>
 </table>
+
+**Research interests:** AQI prediction · environmental data analysis · model evaluation · NLP · hate-speech detection · Explainable AI · statistical significance testing · predictive analytics
 
 **Research goal:** contribute to high-quality, peer-reviewed work in reputable Scopus and Web of Science indexed journals and conferences.
 
@@ -142,8 +152,8 @@ A database-driven banking web application that demonstrates account management a
 
 I enjoy connecting with researchers, developers, students and technology enthusiasts.
 
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Say hello"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="mailto:nurmohammadakash1821444617@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Say hello"/></a>
+<a href="https://www.linkedin.com/in/nur-mohammad-akash-7b569b431"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
 
 </div>
 
