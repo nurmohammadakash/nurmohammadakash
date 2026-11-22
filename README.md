@@ -36,7 +36,7 @@ I am a Computer Science and Engineering student at **Port City International Uni
 
 <br/>
 
-#### 🌫️ Research and Publications
+<img src="./assets/t_research.svg" alt="Research and Publication" width="100%"/>
 <table>
 <tr>
 <td width="50%" valign="top">
