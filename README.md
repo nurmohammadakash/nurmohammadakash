@@ -21,7 +21,7 @@
 
 <br/>
 
-<img src="./assets/highlights.svg" alt="6 featured projects, research presented at ICSDEHE 2026" width="100%"/>
+<img src="./assets/highlights.svg" alt="4.00 CGPA, 6 featured projects, research presented at ICSDEHE 2026" width="100%"/>
 
 <br/><br/>
 
@@ -29,15 +29,46 @@
 
 I am a Computer Science and Engineering student at **Port City International University, Chattogram, Bangladesh**, with a strong interest in **Artificial Intelligence, Machine Learning, Data Science and research**. I enjoy building practical, intelligent solutions to real-world problems, supported by sound statistical thinking.
 
-- 🎓 B.Sc. in Computer Science and Engineering
+- 🎓 B.Sc. in Computer Science and Engineering, with a **4.00 / 4.00 CGPA**
 - 🔬 Active in academic research, with work in air quality prediction, NLP and explainable AI
 - 💻 Experienced in building web applications and software systems
+- 🎯 **Goal:** pursue postgraduate studies and contribute to international AI/ML research
 
 <br/>
 
+<img src="./assets/t_research.svg" alt="Research and Publications" width="100%"/>
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
+#### 🌫️ Air Quality Prediction in Bangladesh
+Worked with large-scale satellite-derived air quality data across multiple cities. Applied preprocessing, outlier treatment and feature selection, and compared regression models (including **Extra Trees** and **LightGBM**) using cross-validation and hyperparameter optimisation.
 
+</td>
+<td width="50%" valign="top">
+
+#### 🏙️ Chattogram Air Quality Research
+Analysed air quality data from **2012 to 2023**, studying how **PM2.5, PM10, SO₂, CO and O₃** relate to the Air Quality Index.
+**Presented at ICSDEHE 2026.**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏏 BD-CricketTox
+Hate-speech detection for online discussions targeting Bangladeshi cricketers: Bangla and multilingual text processing, YouTube comment analysis, dataset annotation and **Explainable AI (XAI)**.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🗣️ Chittagonian to Standard Bangla
+An NLP project that converts Chittagonian expressions into standard Bangla: dataset integration, text normalisation and machine learning model development and evaluation.
+
+</td>
+</tr>
+</table>
 
 **Research interests:** AQI prediction · environmental data analysis · model evaluation · NLP · hate-speech detection · Explainable AI · statistical significance testing · predictive analytics
 
