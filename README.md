@@ -16,7 +16,6 @@
 
 <br/>
 
-<img src="./assets/highlights.svg" alt="B.Sc. CSE, 6 featured projects, research presented at ICSDEHE 2026" width="100%"/>
 
 <br/><br/>
 
